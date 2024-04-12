@@ -1,2 +1,6 @@
 Kiem Tra BE2
+<<<<<<< HEAD
 sdfghj
+=======
+hhh
+>>>>>>> c130d89... hello
