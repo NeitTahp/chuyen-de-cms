@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bvghfhg
+=======
+dasda
+>>>>>>> b0fe4da... kjhj
