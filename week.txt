@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-bvghfhg
-=======
-dasda
->>>>>>> b0fe4da... kjhj
+Kiem Tra BE2
